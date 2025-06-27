@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio Website
+💼 Personal Portfolio Website
 
 Hi, I'm **Madhumita Narsale** 👋  
 This is my personal portfolio website created as part of **Prodigy Infotech Internship – Task 04**.
