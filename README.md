@@ -12,6 +12,9 @@ It showcases my:
 🔗 **Live Website:**  
 [https://madhu15-coder.github.io/portfolio-/](https://madhu15-coder.github.io/portfolio-/)
 
+🔗 **GitHub Repository:**  
+[https://github.com/madhu15-coder/portfolio-](https://github.com/madhu15-coder/portfolio-)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -40,12 +43,6 @@ It showcases my:
 - Responsive on mobile and tablet
 - Clean layout using HTML and CSS only
 - Live previews for each internship task
-
----
-
-## 📷 Screenshot
-
-![Portfolio Screenshot](profile.jpg)
 
 ---
 
